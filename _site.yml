@@ -1,0 +1,13 @@
+title: "Anton (Anjo) Peez"
+image: "Anton_Peez.jpg"
+links:
+  - label: <font size="5">📧</font>
+    url: "mailto:peez@hsfk.de"
+  - label: <font size="5">🐦</font>
+    url: "https://twitter.com/antonpeez"
+  - label: <font size="5">📇</font>
+    url: "https://www.hsfk.de/en/staff/employees/anton-peez"  
+  - label: <font size="5">🎓</font>  
+    url: "https://scholar.google.com/citations?user=zq33MJAAAAAJ&hl=en"
+output:
+  postcards::trestles
